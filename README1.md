@@ -1,3 +1,3 @@
 # odin-recipes
 
-# i dont know whats happening right now
+# This is my first "website" and uploading to github. 
